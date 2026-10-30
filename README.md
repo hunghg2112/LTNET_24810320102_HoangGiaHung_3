@@ -5,7 +5,7 @@
 - **Mã sinh viên:** 24810320102
 - **Lớp học phần:** D19QTANM1
 - **Tên Đề tài / Bài tập:** Tổng hợp Bài tập Thực hành Lập trình C# WinForms (Bài 1 đến Bài 5)
-- **Link Repository:** https://github.com/hunghg2112/LTNET_24810320102_HoangGiaHung
+- **Link Repository:** https://github.com/hunghg2112/LTNET_24810320102_HoangGiaHung_3
 
 ---
 
