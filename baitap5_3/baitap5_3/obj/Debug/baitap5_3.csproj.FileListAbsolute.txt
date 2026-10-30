@@ -1,0 +1,9 @@
+D:\c#_baitap\bt30_10\baitap5_3\baitap5_3\obj\Debug\baitap5_3.csproj.AssemblyReference.cache
+D:\c#_baitap\bt30_10\baitap5_3\baitap5_3\obj\Debug\baitap5_3.Properties.Resources.resources
+D:\c#_baitap\bt30_10\baitap5_3\baitap5_3\obj\Debug\baitap5_3.csproj.GenerateResource.cache
+D:\c#_baitap\bt30_10\baitap5_3\baitap5_3\obj\Debug\baitap5_3.csproj.CoreCompileInputs.cache
+D:\c#_baitap\bt30_10\baitap5_3\baitap5_3\bin\Debug\baitap5_3.exe.config
+D:\c#_baitap\bt30_10\baitap5_3\baitap5_3\bin\Debug\baitap5_3.exe
+D:\c#_baitap\bt30_10\baitap5_3\baitap5_3\bin\Debug\baitap5_3.pdb
+D:\c#_baitap\bt30_10\baitap5_3\baitap5_3\obj\Debug\baitap5_3.exe
+D:\c#_baitap\bt30_10\baitap5_3\baitap5_3\obj\Debug\baitap5_3.pdb
