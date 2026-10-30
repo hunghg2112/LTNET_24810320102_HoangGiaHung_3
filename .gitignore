@@ -1,0 +1,10 @@
+# Bỏ qua các thư mục build của C# / .NET
+bin/
+obj/
+.vs/
+
+# Bỏ qua các file cấu hình cá nhân
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
